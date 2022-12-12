@@ -1,0 +1,7 @@
+package SnakeLadder;
+import java.util.*;
+
+public class Jump{
+    int start;
+    int end;
+}
