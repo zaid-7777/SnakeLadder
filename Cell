@@ -1,0 +1,8 @@
+package SnakeLadder;
+import java.util.*;
+class Cell{
+   Jump jump;
+   Cell(){
+       this.jump=jump;
+   }
+}
